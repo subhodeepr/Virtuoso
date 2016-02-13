@@ -261,6 +261,8 @@ a:focus {
   color: white;
 }
 
+
+
 .btn-modal:hover{
 
   background-color: white;
@@ -269,6 +271,23 @@ a:focus {
   border-color: black;
 }
 
+.form-control{
+  border: 1px solid gray;
+
+}
+.close{
+
+  color: gray;
+  opacity: 1.0;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  select:focus,
+  textarea:focus,
+  input:focus {
+    background: #eee;
+  }
+}
 
 @-webkit-keyframes pulse {
     0% {
