@@ -10,6 +10,8 @@ body {
 html {
     width: 100%;
     height: 100%;
+    -webkit-filter: sepia(40%);
+
 }
 
 h1,
@@ -370,7 +372,7 @@ a:focus {
 }
 
 .form-control:focus {
-  border-color: black;
+  border-color: grey;
 }
 
 @media(min-width:767px) {
