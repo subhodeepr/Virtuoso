@@ -459,6 +459,12 @@ a:focus {
   color: black;
 }
 
+body.modal-open{
+  overflow: hidden;
+  position: fixed;
+
+}
+
 #contactrow{
 
   padding-top: 100px;
