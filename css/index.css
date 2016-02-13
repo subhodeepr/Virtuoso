@@ -101,7 +101,7 @@ a:focus {
       background: rgba(255,255,255,.1);  }
 
   }
-  
+
 .copyright{
 
   padding-top: 25px;
@@ -214,6 +214,8 @@ a:focus {
     width: 70px;
     height: 70px;
     margin-top: 15px;
+    margin-bottom: 15px;
+
     padding: 7px 16px;
     border: 2px solid #fff;
     border-radius: 30%!important;
