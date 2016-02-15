@@ -459,11 +459,6 @@ a:focus {
   color: black;
 }
 
-body.modal-open{
-  overflow: hidden;
-  position: fixed;
-
-}
 
 #contactrow{
 
@@ -494,6 +489,13 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
     }
+
+    body.modal-open{
+      overflow: hidden;
+      position: fixed;
+
+    }
+
 }
 
 footer {
