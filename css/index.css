@@ -490,12 +490,6 @@ ul.banner-social-buttons {
         margin-bottom: 0;
     }
 
-    body.modal-open{
-      overflow: hidden;
-      position: fixed;
-
-    }
-
 }
 
 footer {
